@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Myjsp/Myjsp.iml" filepath="$PROJECT_DIR$/Myjsp/Myjsp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Myservlet/Myservlet.iml" filepath="$PROJECT_DIR$/Myservlet/Myservlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day2-javaee.iml" filepath="$PROJECT_DIR$/day2-javaee.iml" />
+    </modules>
+  </component>
+</project>
